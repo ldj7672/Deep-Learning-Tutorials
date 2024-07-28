@@ -10,6 +10,8 @@
    
    ㄴ Hugging Face API `Trainer`  
    ㄴ Pytorch native training
+
+- [CLIP 예제 (https://github.com/ldj7672/Deep-Learning-Tutorials/blob/main/HuggingFace/CLIP.ipynb)]  
    ㄴ CLIP + KoCLIP 예제
 
 - [Dataloader_example : collate_fn](https://github.com/ldj7672/Deep-Learning-Tutorials/tree/main/Pytorch/Dataloader_example)
