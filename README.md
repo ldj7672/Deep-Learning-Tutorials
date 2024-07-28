@@ -11,7 +11,7 @@
    ㄴ Hugging Face API `Trainer`  
    ㄴ Pytorch native training
 
-- [CLIP 예제](https://github.com/ldj7672/Deep-Learning-Tutorials/blob/main/HuggingFace/CLIP.ipynb)
+- [CLIP 예제](https://github.com/ldj7672/Deep-Learning-Tutorials/blob/main/HuggingFace/CLIP/CLIP_tutorial.ipynb)
 
    ㄴ CLIP + KoCLIP 예제
 
